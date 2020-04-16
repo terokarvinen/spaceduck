@@ -5,4 +5,4 @@ git and Github.
 
 Example project
 
-Foo bar
+Bar - Foo bar
