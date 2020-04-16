@@ -1,0 +1,2 @@
+# spaceduck
+Example project
